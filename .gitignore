@@ -1,9 +1,10 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+SpaceSim/[Ll]ibrary/
+SpaceSim/[Tt]emp/
+SpaceSim/[Oo]bj/
+SpaceSim/[Bb]uild/
+SpaceSim/[Bb]uilds/
+SpaceSim/Assets/AssetStoreTools*
+SpaceSim/ProjectSettings/
 
 # Visual Studio 2015 cache directory
 /.vs/
